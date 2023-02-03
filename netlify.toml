@@ -1,4 +1,4 @@
 [[redirects]]
-  from = "/starcab.html"
+  from = "/*"
   to = "/index.html"
   status = 200
