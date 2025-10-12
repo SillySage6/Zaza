@@ -1,0 +1,20 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Chocolope</title>
+    </head> 
+    <body style="background-color: lightgreen;">
+        
+        <p style="font-size: 2.5rem;"><b>Chocolope Test Results</b></b></p>
+        <p style="font-size: 2.5rem;"><b>Harvested 7/31/25, Packaged 9/25/25 </b></b></p>
+        <p><a href="chocremoved.pdf"> Chocolope Report</a></p>
+        <p><a href="Cannabinoidchoc.pdf"> Chocolope Cannabinoid Report</a></p>
+        <p><a href="choc6test.pdf"> Chocolope Test</a></p>
+        <p><a href="choc6test2.pdf"> Chocolope Test 2</a></p>
+
+        
+       
+
+    </body>
+    </html>
